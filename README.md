@@ -1,4 +1,4 @@
-# Taiwan_ECweb-2_Crawler
+# ECweb-2_Crawler
 
 <strong>Data Source</strong></br>
 C2C EC platform based in Singapore, but the data set is from their Taiwanese website.</br>
