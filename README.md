@@ -13,4 +13,5 @@ All detailed information of items posted on the platform, with the tag of "the n
 
 <strong>How to use</strong></br>
 1. Please install Python Scrapy, Json, Numpy, Pandas and other used packages of this project into your local computer</br>
+2. Please move the project to your desktop</br>
 2. Please execute run.py to initiate whole machine</br>
