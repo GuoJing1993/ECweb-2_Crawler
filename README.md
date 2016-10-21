@@ -4,7 +4,7 @@
 C2C EC platform based in Singapore, but the data set is from their Taiwanese website.</br>
 
 <strong>Data Object</strong></br>
-All detailed information of items posted on the platform, including post time, price, likes, and logistic situations...,etc</br>
+All detailed information of items posted on the platform, with the tag of "the newest"</br>
 
 <strong>Code</strong></br>
 1. Python Scrapy, Json packages for data crawlers</br>
@@ -12,5 +12,5 @@ All detailed information of items posted on the platform, including post time, p
 3. R script for further data cleaning</br>
 
 <strong>How to use</strong></br>
-1. Please install Python Scrapy, Json, Numpy, Pandas and other used packaged of this project into your local computer</br>
+1. Please install Python Scrapy, Json, Numpy, Pandas and other used packages of this project into your local computer</br>
 2. Please execute run.py to initiate whole machine</br>
